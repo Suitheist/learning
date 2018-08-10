@@ -18,7 +18,7 @@ if sys.version_info[0] >= 3:
 
 paddle_speed = 30
 min_ball_speed = 10
-max_ball_speed = 18
+max_ball_speed = 12
 # How much faster the ball gets when it hits a brick:
 brick_speedup = 0.15
 # How much faster the ball gets when a new level is reached:
